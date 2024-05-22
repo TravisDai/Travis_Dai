@@ -12,7 +12,7 @@ main:
     notes: Oral Presentation
 
   - title: "Efficient Algorithm for All-Gather Operation in Optical Interconnect Systems"
-    authors: <strong>Fei Dai</strong>, Yawen Chen, Zhiyi Huang, Haibo Zhang
+    authors: <strong>Fei Dai*</strong>, Yawen Chen, Zhiyi Huang, Haibo Zhang(*Corresponding authors)
     conference_short: IJ
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380208
