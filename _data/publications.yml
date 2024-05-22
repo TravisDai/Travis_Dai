@@ -9,7 +9,7 @@ main:
     page: https://dl.acm.org/doi/10.1145/3605573.3605624
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Full paper, Published
+    notes: Oral Presentation
 
   - title: "Efficient Algorithm for All-Gather Operation in Optical Interconnect Systems"
     authors: <strong>Fei Dai</strong>, Yawen Chen, Zhiyi Huang, Haibo Zhang
