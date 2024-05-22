@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello and welcome! I’m Travis Dai, a passionate educator and researcher serving as a lecturer at the Eastern Institute of Technology. With a deep-rooted fascination for the interplay between light and computation, my academic and professional journey revolves around harnessing optical technologies to revolutionize how we process information and communicate.
+Hello and welcome! I’m Fei (Travis) Dai, a passionate educator and researcher serving as a lecturer at the Eastern Institute of Technology. With a deep-rooted fascination for the interplay between light and computation, my academic and professional journey revolves around harnessing optical technologies to revolutionize how we process information and communicate.
 
 At the core of my research interests lie optical interconnect systems—a vital component for the next generation of high-speed, energy-efficient computing. I am deeply immersed in exploring parallel distributed computation of deep neural networks (DNN), aiming to unlock new computational speed and efficiency horizons. My work on optical DNN accelerators is driven by the vision of creating groundbreaking hardware to keep pace with the ever-growing demands of artificial intelligence and machine learning.
 
