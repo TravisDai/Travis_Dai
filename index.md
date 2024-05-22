@@ -21,12 +21,11 @@ I am constantly inspired by the potential of optical technologies to redefine ou
 ## News
 
 - **[Jan. 2024]** Our paper about the all-gather operation has been accepted by the IEEE Open Journal of the Communications Society (OJ-COMS).
-- **[Sept. 2023]** Our paper about distributed DNN training performance comparison is accepted to ICA3PP 2023.
-- **[Sept. 2023]** Our paper about the all-reduce algorithm has been accepted to The 52nd International Conference on Parallel Processing (ICPP) 2023.
+- **[Nov. 2023]** Our paper about distributed DNN training performance comparison is accepted to ICA3PP 2023.
+- **[Oct. 2023]** Our paper about the all-reduce algorithm has been accepted to The 52nd International Conference on Parallel Processing (ICPP) 2023.
 - **[Sept. 2023]** Our paper about the all-gather operation in optical interconnect systems is accepted to ICC 2023.
-- **[Feb. 2023]** Our paper about distributed DNN training has been accepted to PPoPP 2023.
 - **[Mar. 2023]** Our paper about FCNN training performance comparison is accepted by The Journal of Supercomputing.
-
+- **[Feb. 2023]** Our paper about distributed DNN training has been accepted to PPoPP 2023.
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
