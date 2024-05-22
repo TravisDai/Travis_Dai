@@ -13,11 +13,9 @@ main:
 
   - title: "Efficient Algorithm for All-Gather Operation in Optical Interconnect Systems"
     authors: <strong>Fei Dai*</strong>, Yawen Chen, Zhiyi Huang, Haibo Zhang(*Corresponding authors)
-    conference_short: IJ
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    Journal_short: OJ-COMS
+    Journal: IEEE Open Journal of the Communications Society <strong>(OJ-COMS)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380208
-    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380208
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Published
     image: ./assets/img/graphcal_abstract.drawio.png
