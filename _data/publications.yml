@@ -1,18 +1,17 @@
 main:
 
-  - title: Wrht: Efficient all-reduce for distributed DNN training in optical interconnect systems
+  - title: "Wrht: Efficient all-reduce for distributed DNN training in optical interconnect systems"
     authors: Fei Dai*, Yawen Chen, Zhiyi Huang, Haibo Zhang (*Corresponding authors)
-    conference_short: ICPP
+    conference_short: "ICPP"
     conference:  The 52nd International Conference on Parallel Processing <strong>(ICPP)</strong>, 2023.
     pdf: https://dl.acm.org/doi/10.1145/3605573.3605624
-    #code: https://github.com/MrGiovanni/ContinualLearning
     page: https://dl.acm.org/doi/10.1145/3605573.3605624
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/wrht.JPG
     notes: Oral Presentation
 
   - title: "Efficient Algorithm for All-Gather Operation in Optical Interconnect Systems"
-    authors: <strong>Fei Dai*</strong>, Yawen Chen, Zhiyi Huang, Haibo Zhang(*Corresponding authors)
+    authors: <strong>Fei Dai*</strong>, Yawen Chen, Zhiyi Huang, Haibo Zhang (*Corresponding authors)
     conference_short: OJ-COMS
     conference: IEEE Open Journal of the Communications Society <strong>(OJ-COMS)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380208
