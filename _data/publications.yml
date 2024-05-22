@@ -13,8 +13,8 @@ main:
 
   - title: "Efficient Algorithm for All-Gather Operation in Optical Interconnect Systems"
     authors: <strong>Fei Dai*</strong>, Yawen Chen, Zhiyi Huang, Haibo Zhang(*Corresponding authors)
-    Journal_short: OJ-COMS
-    Journal: IEEE Open Journal of the Communications Society <strong>(OJ-COMS)</strong>, 2024.
+    conference_short: OJ-COMS
+    conference: IEEE Open Journal of the Communications Society <strong>(OJ-COMS)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380208
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Published
