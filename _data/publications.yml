@@ -1,22 +1,23 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+  - title: Wrht: Efficient all-reduce for distributed DNN training in optical interconnect systems
+    authors: Fei Dai*, Yawen Chen, Zhiyi Huang, Haibo Zhang (*Corresponding authors)
+    conference_short: ICPP
+    conference:  The 52nd International Conference on Parallel Processing <strong>(ICPP)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/10.1145/3605573.3605624
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    page: https://dl.acm.org/doi/10.1145/3605573.3605624
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Full paper, Published
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
+  - title: "Efficient Algorithm for All-Gather Operation in Optical Interconnect Systems"
+    authors: <strong>Fei Dai</strong>, Yawen Chen, Zhiyi Huang, Haibo Zhang
+    conference_short: IJ
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380208
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380208
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    notes: Published
     image: ./assets/img/teaser_example.png
