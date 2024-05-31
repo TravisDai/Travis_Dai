@@ -30,7 +30,7 @@ I am constantly inspired by the potential of optical technologies to redefine ou
 
 {% include_relative _includes/services.md %}
 
-## Teached Courses
+## Teaching
 Electronics and Internet of Things
 
 Automation and Embedded Systems
