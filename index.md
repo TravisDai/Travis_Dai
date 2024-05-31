@@ -32,4 +32,5 @@ I am constantly inspired by the potential of optical technologies to redefine ou
 
 ## Teached Courses
 Electronics and Internet of Things
+
 Automation and Embedded Systems
