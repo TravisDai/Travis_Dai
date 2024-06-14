@@ -16,4 +16,5 @@
   <li><a href="https://link.springer.com/journal/11227"><autocolor>Journal of Supercomputing(SUPE)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/microprocessors-and-microsystems"><autocolor>Microprocessors and Microsystems</autocolor></a></li>
   <li><a href="https://ieeeaccess.ieee.org/"><autocolor>IEEE ACCESS</autocolor></a></li>
+  <li><a href="https://ojs.bonviewpress.com/index.php/JOPR/index"><autocolor>Journal of Optics and Photonics Research</autocolor></a></li>
 </ul>
