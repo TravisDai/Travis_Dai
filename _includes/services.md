@@ -1,4 +1,7 @@
 ## Services
+<h4 style="margin:0 10px 0;">Guest Editor</h4>
+  <li><a href="https://www.mdpi.com/journal/electronics/special_issues/Distributed_Parallel_Computing"><autocolor>Special Issue: Emerging Distributed/Parallel Computing Systems on Electronics</autocolor></a></li>
+   
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
