@@ -11,10 +11,10 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71"><autocolor>IEEE Transactions on Parallel and Distributed Systems</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71"><autocolor>IEEE Transactions on Parallel and Distributed Systems (TPDS)</autocolor></a></li>
   <li><a href="https://journals.plos.org/plosone/"><autocolor>PLOS ONE</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/ict-express"><autocolor>ICT Express</autocolor></a></li>
-  <li><a href="https://link.springer.com/journal/11227"><autocolor>Journal of Supercomputing(SUPE)</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/11227"><autocolor>Journal of Supercomputing (SUPE)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/microprocessors-and-microsystems"><autocolor>Microprocessors and Microsystems</autocolor></a></li>
   <li><a href="https://ieeeaccess.ieee.org/"><autocolor>IEEE ACCESS</autocolor></a></li>
   <li><a href="https://ojs.bonviewpress.com/index.php/JOPR/index"><autocolor>Journal of Optics and Photonics Research</autocolor></a></li>
