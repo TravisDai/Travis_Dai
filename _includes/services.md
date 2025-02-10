@@ -6,6 +6,8 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="[[http://cvpr2023.thecvf.com/](https://2025.eurosys.org/)](https://ieeexplore.ieee.org/xpl/conhome/1001048/all-proceedings)"><autocolor>ACM EuroSys 2025</autocolor></a></li>
+  
   <li><a href="[http://cvpr2023.thecvf.com/](https://ieeexplore.ieee.org/xpl/conhome/1001048/all-proceedings)"><autocolor>International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT) 2020-2021</autocolor></a></li>
   <li><a href="[http://iccv2021.thecvf.com/](https://ieeexplore.ieee.org/xpl/conhome/10009901/proceeding)"><autocolor>2019 International Symposium on Parallel Architectures, Algorithms, and Programming (PAAP) 2019</autocolor></a></li>
   <li><a href="[https://eccv2022.ecva.net/](https://dl.acm.org/doi/proceedings/10.1145/3582514)"><autocolor>International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM 2023) </autocolor></a></li>
