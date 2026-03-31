@@ -4,33 +4,43 @@ layout: homepage
 
 ## About Me
 
-Hello and welcome! I’m Fei (Travis) Dai, a passionate educator and researcher serving as a lecturer at the Eastern Institute of Technology. With a deep-rooted fascination for the interplay between light and computation, my academic and professional journey revolves around harnessing optical technologies to revolutionize how we process information and communicate.
+Hello and welcome! I am Fei (Travis) Dai, a Senior Lecturer in Computing at the Eastern Institute of Technology (EIT), New Zealand. I received my PhD in Computer Science from the University of Otago.
 
-At the core of my research interests lie optical interconnect systems—a vital component for the next generation of high-speed, energy-efficient computing. I am deeply immersed in exploring parallel distributed computation of deep neural networks (DNN), aiming to unlock new computational speed and efficiency horizons. My work on optical DNN accelerators is driven by the vision of creating groundbreaking hardware to keep pace with the ever-growing demands of artificial intelligence and machine learning.
+My research focuses on optical interconnect systems, distributed AI training, collective communication, and parallel and distributed systems. I am particularly interested in communication-efficient system design for deep learning, optical and photonic approaches to scalable computing, and system co-design across algorithms, architectures, and interconnects.
 
-Communication optimization within these systems is another area where I focus my efforts, striving to enhance how our devices and infrastructures converse in the digital age. Integrating embedded systems and the Internet of Things (IoT) into this framework forms the backbone of my approach towards creating a seamlessly connected world where information flows as freely and efficiently as light.
+I also work in computing education, with current interests in theory-to-practice barriers, reflective learning, and transnational computing education in cross-cultural contexts, particularly between China and New Zealand.
 
-I am constantly inspired by the potential of optical technologies to redefine our computational limits and am committed to advancing this field through rigorous research, innovative teaching, and collaborative exploration. Whether you’re a student eager to delve into the wonders of optical computing, a fellow researcher keen on discussing potential collaborations, or simply curious about the future of technology, I invite you to join me on this exciting journey.
+In teaching, I value hands-on, learner-centred learning and aim to connect technical concepts with authentic applications. I welcome opportunities for collaboration in optical and AI systems, distributed training, collective communication, system co-design, and computing education.
 
-## Research Interests (Cross-discipline includes:)
+## Research Interests
 
-- **Optical Interconnects** 
-- **DNN Training Acceleration** 
-- **IoT and Embedded Systems** 
+- **Optical Interconnect Systems**
+- **Distributed AI Training**
+- **Collective Communication**
+- **AI Systems and System Co-design**
+- **Parallel and Distributed Systems**
+- **Computing Education**
 
 ## News
 
-- **[Jan. 2024]** Our paper about the all-gather operation has been accepted by the IEEE Open Journal of the Communications Society (OJ-COMS).
-- **[Nov. 2023]** Our paper about distributed DNN training performance comparison is accepted to ICA3PP 2023.
-- **[Oct. 2023]** Our paper about the all-reduce algorithm has been accepted to The 52nd International Conference on Parallel Processing (ICPP) 2023.
-- **[Sept. 2023]** Our paper about the all-gather operation in optical interconnect systems is accepted to ICC 2023.
-- **[Mar. 2023]** Our paper about FCNN training performance comparison is accepted by The Journal of Supercomputing.
-- **[Feb. 2023]** Our paper about distributed DNN training has been accepted to PPoPP 2023.
+- **[2026]** Promoted to Senior Lecturer in Computing at the Eastern Institute of Technology.
+- **[2025]** Our paper on theory–practice barriers in Sino–New Zealand undergraduate computing education was published at **CSEDU 2025**.
+- **[2025]** Our paper, *State of the Art in Parallel and Distributed Systems: Emerging Trends and Challenges*, was published in **Electronics**.
+- **[2024]** Our paper on the all-gather operation in optical interconnect systems was published in the **IEEE Open Journal of the Communications Society (OJ-COMS)**.
+- **[2023]** Our paper on distributed DNN training performance comparison was accepted to **ICA3PP 2023**.
+- **[2023]** Our paper on the all-reduce algorithm in optical interconnect systems was accepted to **ICPP 2023**.
+- **[2023]** Our paper on the all-gather operation in optical interconnect systems was accepted to **IEEE ICC 2023**.
+- **[2023]** Our paper on distributed DNN training in optical interconnect systems was accepted to **PPoPP 2023**.
+- **[2022]** Our paper on multi-layer perceptron training performance on electrical and optical network-on-chips was published in **The Journal of Supercomputing**.
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
 
 ## Teaching
-Electronics and Internet of Things
 
-Automation and Embedded Systems
+I teach in the areas of:
+
+- Electronics and Internet of Things
+- Automation and Embedded Systems
+
+My teaching emphasises hands-on learning, authentic assessment, and connecting theory with practice.
