@@ -1,26 +1,26 @@
-## Services
-<h4 style="margin:0 10px 0;">Guest Editor</h4>
-  <li><a href="https://www.mdpi.com/journal/electronics/special_issues/Distributed_Parallel_Computing"><autocolor>Special Issue: Emerging Distributed/Parallel Computing Systems on Electronics</autocolor></a></li>
-   
+## Academic Services (Selected)
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
-
+<h4 style="margin:0 10px 0;">Editorial</h4>
 <ul style="margin:0 0 5px;">
-  <li><a href="[[http://cvpr2023.thecvf.com/](https://2025.eurosys.org/)](https://ieeexplore.ieee.org/xpl/conhome/1001048/all-proceedings)"><autocolor>ACM EuroSys 2025</autocolor></a></li>
-  
-  <li><a href="[http://cvpr2023.thecvf.com/](https://ieeexplore.ieee.org/xpl/conhome/1001048/all-proceedings)"><autocolor>International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT) 2020-2021</autocolor></a></li>
-  <li><a href="[http://iccv2021.thecvf.com/](https://ieeexplore.ieee.org/xpl/conhome/10009901/proceeding)"><autocolor>2019 International Symposium on Parallel Architectures, Algorithms, and Programming (PAAP) 2019</autocolor></a></li>
-  <li><a href="[https://eccv2022.ecva.net/](https://dl.acm.org/doi/proceedings/10.1145/3582514)"><autocolor>International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM 2023) </autocolor></a></li>
+  <li><a href="https://www.mdpi.com/journal/electronics/special_issues/Distributed_Parallel_Computing"><autocolor>Guest Editor, <i>Electronics</i> (MDPI) — Special Issue: Emerging Distributed/Parallel Computing Systems</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Service</h4>
+<ul style="margin:0 0 5px;">
+  <li><autocolor>Artifact Evaluation Committee Member, ACM EuroSys — 2025, 2026</autocolor></li>
+  <li><autocolor>Technical Program Committee (TPC) Member, AICSConf (Artificial Intelligence and Complex Systems Conference) — 2021</autocolor></li>
+  <li><autocolor>Technical Program Committee (TPC) Member, ICNCIS (International Conference on Network Communication and Information Security) — 2023–Present</autocolor></li>
+  <li><autocolor>Technical Program Committee (TPC) Member, CCIOT (International Conference on Cloud Computing and Internet of Things) — 2024–Present</autocolor></li>
+  <li><autocolor>Reviewer / Program Committee Member, PDCAT (Parallel and Distributed Computing, Applications and Technologies) — 2020–2021</autocolor></li>
+  <li><autocolor>Reviewer / Program Committee Member, PAAP (Parallel Architectures, Algorithms, and Programming) — 2019</autocolor></li>
+  <li><autocolor>Reviewer / Program Committee Member, PMAM (Programming Models and Applications for Multicores and Manycores) — 2023</autocolor></li>
+  <li><autocolor>Session/Workshop Chair, PMAM 2023 (co-located with PPoPP), Montreal, Canada</autocolor></li>
+  <li><autocolor>Session Chair, CSEDU 2025 (International Conference on Computer Supported Education)</autocolor></li>
+</ul>
 
+<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 <ul style="margin:0 0 20px;">
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71"><autocolor>IEEE Transactions on Parallel and Distributed Systems (TPDS)</autocolor></a></li>
-  <li><a href="https://journals.plos.org/plosone/"><autocolor>PLOS ONE</autocolor></a></li>
-  <li><a href="https://www.sciencedirect.com/journal/ict-express"><autocolor>ICT Express</autocolor></a></li>
-  <li><a href="https://link.springer.com/journal/11227"><autocolor>Journal of Supercomputing (SUPE)</autocolor></a></li>
-  <li><a href="https://www.sciencedirect.com/journal/microprocessors-and-microsystems"><autocolor>Microprocessors and Microsystems</autocolor></a></li>
-  <li><a href="https://ieeeaccess.ieee.org/"><autocolor>IEEE ACCESS</autocolor></a></li>
-  <li><a href="https://ojs.bonviewpress.com/index.php/JOPR/index"><autocolor>Journal of Optics and Photonics Research</autocolor></a></li>
+  <li><autocolor>IEEE journals: IEEE Transactions on Parallel and Distributed Systems (TPDS); IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD); IEEE Transactions on Computers; IEEE Access</autocolor></li>
+  <li><autocolor>Other journals: The Journal of Supercomputing; Future Generation Computer Systems; Microprocessors and Microsystems; PLOS ONE</autocolor></li>
+  <li><autocolor>MDPI journals: <i>Electronics</i>; <i>Network</i>; <i>Telecom</i>; <i>Quantum Beam Science</i></autocolor></li>
 </ul>
