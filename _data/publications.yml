@@ -1,20 +1,40 @@
 main:
-
-  - title: "Wrht: Efficient all-reduce for distributed DNN training in optical interconnect systems"
-    authors: Fei Dai*, Yawen Chen, Zhiyi Huang, Haibo Zhang (*Corresponding authors)
+  - title: "WRHT: Efficient All-Reduce for Distributed DNN Training in Optical Interconnect Systems"
+    authors: "Fei Dai*, Yawen Chen, Zhiyi Huang, Haibo Zhang (*Corresponding authors)"
     conference_short: "ICPP"
-    conference:  The 52nd International Conference on Parallel Processing <strong>(ICPP)</strong>, 2023.
-    pdf: https://dl.acm.org/doi/10.1145/3605573.3605624
-    page: https://dl.acm.org/doi/10.1145/3605573.3605624
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/wrht.JPG
-    notes: Oral Presentation
+    conference: "The 52nd International Conference on Parallel Processing <strong>(ICPP)</strong>, 2023."
+    pdf: "https://dl.acm.org/doi/10.1145/3605573.3605624"
+    page: "https://dl.acm.org/doi/10.1145/3605573.3605624"
+    image: "./assets/img/wrht.JPG"
+    notes: "Oral Presentation"
 
   - title: "Efficient Algorithm for All-Gather Operation in Optical Interconnect Systems"
-    authors: <strong>Fei Dai*</strong>, Yawen Chen, Zhiyi Huang, Haibo Zhang (*Corresponding authors)
-    conference_short: OJ-COMS
-    conference: IEEE Open Journal of the Communications Society <strong>(OJ-COMS)</strong>, 2024.
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380208
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Published
-    image: ./assets/img/graphcal_abstract.drawio.png
+    authors: "Fei Dai*, Yawen Chen, Zhiyi Huang, Haibo Zhang (*Corresponding authors)"
+    conference_short: "OJ-COMS"
+    conference: "IEEE Open Journal of the Communications Society <strong>(OJ-COMS)</strong>, 2024."
+    pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10380208"
+    page: "https://ieeexplore.ieee.org/document/10380208"
+    image: "./assets/img/graphcal_abstract.drawio.png"
+    notes: "Published"
+
+  - title: "A Preliminary Investigation into Theory-Practice Barriers in Sino-New Zealand Undergraduate Computing Education"
+    authors: "Fei Dai, Anthony Robins, Zhihao Peng, Wanni Huang, Chiu-Pih Tan, Tianzhen Chen"
+    conference_short: "CSEDU"
+    conference: "The 17th International Conference on Computer Supported Education <strong>(CSEDU)</strong>, 2025."
+    pdf: "https://www.scitepress.org/publishedPapers/2025/133589/pdf/index.html"
+    page: "https://doi.org/10.5220/0013358900003932"
+    notes: "Published"
+
+  - title: "Performance Comparison of Distributed DNN Training on Interconnect Systems"
+    authors: "Fei Dai, Yawen Chen, Zhiyi Huang, Haibo Zhang"
+    conference_short: "ICA3PP"
+    conference: "The 23rd International Conference on Algorithms and Architectures for Parallel Processing <strong>(ICA3PP)</strong>, 2023."
+    page: "https://doi.org/10.1007/978-981-97-0834-5_23"
+    notes: "Published"
+
+  - title: "State of the Art in Parallel and Distributed Systems: Emerging Trends and Challenges"
+    authors: "Fei Dai, Md Akbar Hossain, Yi Wang"
+    conference_short: "Electronics"
+    conference: "<i>Electronics</i>, 14(4), 677, 2025."
+    page: "https://www.mdpi.com/2079-9292/14/4/677"
+    notes: "Published"
