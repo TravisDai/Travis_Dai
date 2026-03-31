@@ -32,6 +32,7 @@ In teaching, I value hands-on, learner-centred learning and aim to connect techn
 - **[2023]** Our paper on the all-gather operation in optical interconnect systems was accepted to **IEEE ICC 2023**.
 - **[2023]** Our paper on distributed DNN training in optical interconnect systems was accepted to **PPoPP 2023**.
 - **[2022]** Our paper on multi-layer perceptron training performance on electrical and optical network-on-chips was published in **The Journal of Supercomputing**.
+  
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
