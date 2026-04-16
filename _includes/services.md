@@ -16,6 +16,8 @@
   <li><autocolor>Reviewer / Program Committee Member, PMAM (Programming Models and Applications for Multicores and Manycores) — 2023</autocolor></li>
   <li><autocolor>Session/Workshop Chair, PMAM 2023 (co-located with PPoPP), Montreal, Canada</autocolor></li>
   <li><autocolor>Session Chair, CSEDU 2025 (International Conference on Computer Supported Education)</autocolor></li>
+  <li><autocolor>Program Committee Member, The 3rd International Workshop on Artificial Intelligence Empowered Communication and Networking at ICCCN 2026</autocolor></li>
+  
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
