@@ -4,22 +4,37 @@ layout: homepage
 
 ## About Me
 
-Hello and welcome! I am Fei (Travis) Dai, a Senior Lecturer in Computing at the Eastern Institute of Technology (EIT), New Zealand. I received my PhD in Computer Science from the University of Otago.
+Dr Fei (Travis) Dai is a Senior Lecturer in Computing at the Eastern Institute of Technology (EIT), New Zealand. He holds a PhD in Computer Science from the University of Otago.
 
-My research focuses on optical interconnect systems, distributed AI training, collective communication, and parallel and distributed systems. I am particularly interested in communication-efficient system design for deep learning, optical and photonic approaches to scalable computing, and system co-design across algorithms, architectures, and interconnects.
+Travis is an AI-systems researcher whose principal contribution is the design and modelling of communication-efficient distributed training systems, particularly through collective-communication and optical-interconnect co-design. His research examines how AI workloads, parallelisation strategies, communication algorithms, network architectures, bandwidth, latency, energy consumption, and hardware constraints interact in distributed computing systems.
 
-I also work in computing education, with current interests in theory-to-practice barriers, reflective learning, and transnational computing education in cross-cultural contexts, particularly between China and New Zealand.
+His work has included optical-aware all-reduce and all-gather algorithms, analytical modelling of distributed neural-network training, and performance and energy evaluation of optical and electrical interconnect architectures. He is currently extending this research towards communication-efficient and interconnect-aware infrastructure for emerging AI workloads, including distributed large language model training.
 
-In teaching, I value hands-on, learner-centred learning and aim to connect technical concepts with authentic applications. I welcome opportunities for collaboration in optical and AI systems, distributed training, collective communication, system co-design, and computing education.
+Alongside his technical research, Travis is developing a complementary research programme in GenAI-enabled computing education and authentic learning. His interests include theory-to-practice barriers, reflective learning, AI-aware assessment, educator development, and transnational computing education in cross-cultural contexts, particularly between China and New Zealand.
 
-## Research Interests
+As an educator, he is committed to connecting computing theory with real-world applications and creating hands-on, learner-centred learning environments that develop students' practical capability, critical thinking, and readiness to work effectively with emerging technologies.
 
-- **Optical Interconnect Systems**
-- **Distributed AI Training**
-- **Collective Communication**
-- **AI Systems and System Co-design**
+Travis welcomes opportunities for research collaboration, postgraduate supervision, co-developed projects, joint publications, and long-term partnerships across his research programmes.
+
+## Research Programmes
+
+### Communication-Efficient and Interconnect-Aware AI Systems
+
+- **Distributed AI and Large-Model Training**
+- **Collective Communication Algorithms**
+- **Optical and Photonic Interconnects**
+- **Communication-Efficient System Design**
+- **Algorithm–Architecture–Interconnect Co-design**
+- **Performance and Energy Modelling**
 - **Parallel and Distributed Systems**
-- **Computing Education**
+
+### GenAI-Enabled Computing Education and Authentic Learning
+
+- **GenAI-Enabled Computing Education**
+- **Authentic and AI-Aware Assessment**
+- **Reflective Learning and Educator Development**
+- **Theory-to-Practice Capability Development**
+- **Transnational and Cross-Cultural Computing Education**
 
 ## News
 
@@ -39,9 +54,9 @@ In teaching, I value hands-on, learner-centred learning and aim to connect techn
 
 ## Teaching
 
-I teach in the areas of:
+Travis teaches in the areas of:
 
 - Electronics and Internet of Things
 - Automation and Embedded Systems
 
-My teaching emphasises hands-on learning, authentic assessment, and connecting theory with practice.
+His teaching emphasises hands-on learning, authentic and AI-aware assessment, and connecting theory with practical computing and engineering applications.
