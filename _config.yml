@@ -6,8 +6,9 @@ email: tdai(at)eit.ac.nz
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Fei Dai, Travis Dai, Optical Interconnects, Distributed AI Training, Collective Communication, AI Systems, Computing Education
-description: Academic homepage of Dr Fei (Travis) Dai, Senior Lecturer in Computing at EIT, New Zealand.
+keywords: Fei Dai, Travis Dai, AI Systems, Distributed AI Training, Large Language Model Training, Collective Communication, Optical Interconnects, Photonic Interconnects, Communication-Efficient Computing, System Co-design, Parallel and Distributed Systems, GenAI in Computing Education, Authentic Assessment
+
+description: Academic homepage of Dr Fei (Travis) Dai, an AI-systems researcher and Senior Lecturer in Computing at EIT, New Zealand, working on communication-efficient distributed training, collective communication, optical-interconnect co-design, and GenAI-enabled computing education.
 canonical: https://travisdai.github.io/Travis_Dai/
 
 # Links 
