@@ -1,6 +1,6 @@
 (() => {
   const API_URL = "https://travis-dai-academic.daitr616.chatgpt.site/api/visits";
-  const WORLD_URL = "https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json";
+  const WORLD_URL = "visitor-countries-110m.json";
   const svg = document.getElementById("visitor-map");
   const status = document.getElementById("visitor-status");
   const total = document.getElementById("visitor-total");
@@ -14,11 +14,13 @@
     element.appendChild(title);
   };
   Promise.all([
-    fetch(API_URL, { method: "POST" }).then((response) => {
-      if (!response.ok) throw new Error("Visitor service unavailable");
-      return response.json();
+    fetch(API_URL, { method: "POST", cache: "no-store" }).then(async (response) => {
+      if (response.ok) return response.json();
+      const fallback = await fetch(API_URL, { cache: "no-store" });
+      if (!fallback.ok) throw new Error("Visitor service unavailable");
+      return fallback.json();
     }),
-    fetch(WORLD_URL).then((response) => {
+    fetch(WORLD_URL, { cache: "force-cache" }).then((response) => {
       if (!response.ok) throw new Error("Map data unavailable");
       return response.json();
     })
