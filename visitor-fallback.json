@@ -1,0 +1,12 @@
+{
+  "visits": 7,
+  "updatedAt": "2026-08-27T11:14:00.000Z",
+  "countries": [
+    {
+      "countryCode": "US",
+      "numericCode": "840",
+      "countryName": "United States",
+      "visits": 7
+    }
+  ]
+}
