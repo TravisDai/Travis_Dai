@@ -1,25 +1,11 @@
 /* ---------- Tokens ---------- */
 :root{
-  --bg:#f6f9fa; --bg-top:#fbfcfd; --panel:#edf3f5; --card:rgba(255,255,255,.66); --card-solid:#fff;
-  --line:#c9d7de; --soft:rgba(43,76,96,.16);
-  --text:#17324d; --text-2:#29495e; --muted:#566d7b; --faint:#658394;
-  --accent:#087f8c; --accent-hover:#056c77; --accent-ink:#fff; --accent-soft:#e3f0f1;
-  --badge-bg:#e2f1f2; --badge-text:#05646e;
-  --shadow:0 18px 48px rgba(37,74,94,.10);
-  --map-ocean:#eef4f6; --map-ocean-line:#b9ccd4; --map-land:#d8e4e8; --map-land-line:#fff; --map-visited:#a7ced1; --map-bubble:rgba(8,127,140,.73);
-  --footer:#e5eef1; --header:rgba(251,252,253,.86);
+  --bg:#ffffff;--bg-top:#ffffff;--panel:#f7f7f5;--card:#ffffff;--card-solid:#ffffff;--line:#e2e2de;--soft:#ececea;--text:#1b1f23;--text-2:#33393f;--muted:#555c63;--faint:#6b7279;--accent:#0a6f7a;--accent-hover:#085a63;--accent-ink:#ffffff;--accent-soft:#f1f7f7;--badge-bg:#e6f2f3;--badge-text:#08606a;--shadow:none;--map-ocean:#f5f5f3;--map-ocean-line:#dcdcd7;--map-land:#e3e3df;--map-land-line:#ffffff;--map-visited:#9ccdd2;--map-bubble:rgba(10,111,122,.8);--footer:#f7f7f5;--header:rgba(255,255,255,.92);
   color-scheme:light;
 }
 @media (prefers-color-scheme:dark){
   :root{
-    --bg:#0d1b26; --bg-top:#0f2030; --panel:#122533; --card:rgba(20,40,54,.72); --card-solid:#14283a;
-    --line:#2a4558; --soft:rgba(150,190,210,.14);
-    --text:#e3edf3; --text-2:#c8d8e2; --muted:#9fb4c1; --faint:#86a2b2;
-    --accent:#3fb8c4; --accent-hover:#5fcad4; --accent-ink:#06222a; --accent-soft:#123543;
-    --badge-bg:#123c45; --badge-text:#8fdbe2;
-    --shadow:0 18px 48px rgba(0,0,0,.35);
-    --map-ocean:#10283a; --map-ocean-line:#2a4558; --map-land:#24405a; --map-land-line:#10283a; --map-visited:#2f7f88; --map-bubble:rgba(63,184,196,.85);
-    --footer:#0a1720; --header:rgba(13,27,38,.86);
+    --bg:#121416;--bg-top:#121416;--panel:#191c1f;--card:#191c1f;--card-solid:#1d2024;--line:#2c3136;--soft:#24282c;--text:#e8eaec;--text-2:#cfd3d7;--muted:#a5acb3;--faint:#8d959d;--accent:#55c3cc;--accent-hover:#7ad2d9;--accent-ink:#071c1f;--accent-soft:#15282b;--badge-bg:#16343a;--badge-text:#a3e3e8;--shadow:none;--map-ocean:#191c1f;--map-ocean-line:#2c3136;--map-land:#2b3035;--map-land-line:#191c1f;--map-visited:#2f7f88;--map-bubble:rgba(85,195,204,.85);--footer:#0e1012;--header:rgba(18,20,22,.9);
     color-scheme:dark;
   }
 }
@@ -253,3 +239,8 @@ footer{padding:90px 0 28px;border-top:1px solid var(--line);background:var(--foo
   .section{padding:28px 0}
   .news-more{display:block}
 }
+
+/* ---------- Flat surfaces (palette refresh) ---------- */
+body{background:var(--bg)}
+.si-panel{background:var(--panel)}
+.portrait{box-shadow:none}
